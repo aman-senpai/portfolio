@@ -60,7 +60,7 @@ export default function Posts() {
                     </div>
                 </div>
 
-                <Link href="https://medium.com/@Abhishek_rawe">
+                <Link href="https://aman-senpai.medium.com/">
                     <a><Button className="flex items-center ms-2 px-5 gap-2"><i className="fab fa-medium" />Go to Medium<i className="fal fa-arrow-right -rotate-45 text-xs" /></Button></a>
                 </Link>
             </div>
